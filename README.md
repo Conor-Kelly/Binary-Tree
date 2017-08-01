@@ -4,6 +4,7 @@ Class Name
 BinaryTree
 
 Data fields
+
  private Item data; 
 
  private BinaryTree<Item> left;
@@ -12,6 +13,7 @@ Data fields
 
 
 Constructors (three constructors)
+
  public BinaryTree ()
 
  public BinaryTree (Item data)
@@ -20,6 +22,7 @@ Constructors (three constructors)
 
 
 ￼￼￼￼Methods:
+
 ￼￼￼ public Item getData() // return the data
 
  public BinaryTree<Item> getLeft() // return the reference
