@@ -3,7 +3,7 @@
 Class Name
 BinaryTree
 Data fields
- private Item data;
+ private Item data; 
  private BinaryTree<Item> left;
  private BinaryTree<Item> right;
 
